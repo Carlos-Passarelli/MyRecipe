@@ -1,0 +1,12 @@
+[
+   {
+      "nome": "tomate",
+      "categoria": "frutas",
+      "caloria": 5
+   },
+   {
+      "nome": "queijo",
+      "categoria": "laticínios",
+      "caloria": "120"
+   }
+]

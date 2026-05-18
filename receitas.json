@@ -1,0 +1,34 @@
+[
+    {
+        "nome": "lasanha",
+        "tempo": 50,
+        "preparo": "monte as camadas e asse.",
+        "ingredientes": [
+            "massa",
+            "queijo",
+            "carne moída",
+            "tomate"
+        ]
+    },
+    {
+        "nome": "spaghetti",
+        "tempo": 50,
+        "preparo": "cozinhe o spaghetti e prepare o molho",
+        "ingredientes": [
+            "spaghetti",
+            "carne moída",
+            "tomate"
+        ]
+    },
+    {
+        "nome": "salada de batata",
+        "tempo": 20,
+        "preparo": "mistura tudo",
+        "ingredientes": [
+            "ovo",
+            "batata",
+            "chuchu",
+            "maionese"
+        ]
+    }
+]
