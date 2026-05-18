@@ -19,16 +19,5 @@
             "carne moída",
             "tomate"
         ]
-    },
-    {
-        "nome": "salada de batata",
-        "tempo": 20,
-        "preparo": "mistura tudo",
-        "ingredientes": [
-            "ovo",
-            "batata",
-            "chuchu",
-            "maionese"
-        ]
     }
 ]
